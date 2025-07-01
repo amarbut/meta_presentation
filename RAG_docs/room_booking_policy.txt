@@ -1,0 +1,5 @@
+Rooms left unused for more than 15 minutes after a scheduled start time may be automatically released.
+
+If you experience room lockouts or ghost reservations, submit a ticket to the Facilities team via go/facilities.
+
+Booking policies vary by office location.

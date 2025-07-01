@@ -1,0 +1,7 @@
+To reset a Cisco Room camera:
+
+1. Unplug the device from power for 30 seconds.
+2. Reconnect power and wait for the LED to turn green.
+3. Ensure the camera firmware is up to date.
+
+If the camera fails to initialize, file an AV hardware ticket with the device serial number.

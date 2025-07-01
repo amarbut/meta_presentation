@@ -1,0 +1,8 @@
+To file an internal support ticket:
+
+1. Go to go/support.
+2. Click "New Request".
+3. Choose the category "AV or Meeting Rooms".
+4. Provide room name, device ID, and a short description of the issue.
+
+Tickets are routed to the AV team automatically when properly categorized.

@@ -1,0 +1,5 @@
+If a Zoom Room tablet is unresponsive, press and hold the power button for 10 seconds to force a restart.
+
+If the room display is frozen or black, unplug the HDMI cable from the display and plug it back in. Wait at least 10 seconds before retrying.
+
+Do not reboot the room controller unless absolutely necessary.

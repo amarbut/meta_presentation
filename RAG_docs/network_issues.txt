@@ -1,0 +1,7 @@
+For suspected network issues in conference rooms:
+
+- Check the network status light on the switch under the table.
+- Try switching to a backup Wi-Fi SSID if available.
+- If all rooms in a region are offline, escalate to the network on-call.
+
+Note: Room tablets use PoE+ and may reboot during switch outages.
